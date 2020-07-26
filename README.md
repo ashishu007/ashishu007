@@ -43,13 +43,13 @@ I like reading, watching (on YouTube) about world's political history. It fascin
 
 India, itself is a union of several cultures and stands on the principle of **unity in diversity**. Although, its sad to see that the Indian subcontinent is not a single country, I would love to see these countries forming an union similar to the EU. I know it seems highly unlikely on the basis of today's scenarios, but Europe before WW-II was way worse than the subcontinent today.  -->
 
+<!--
 ## Contact
 
 To get in touch, please send me an e-mail at: **a [dot] upadhyay [at] rgu [dot] ac [dot] uk**.
 
 I try to be as fast as possible in replying a mail, but please pardon me in the case of any delays.
 
-<!--
 **panditu2015/panditu2015** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
