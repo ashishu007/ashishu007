@@ -13,12 +13,11 @@ The main goal of my PhD is to develop hybrid techniques using CBR and DL for Nat
 - Machine (& Deep) Learning
 
 ## Education
-* **Doctor of Philosophy (PhD) in Artificial Intelligence (AI)** _(October 2019 - Ongoing)_
+* **Doctor of Philosophy (PhD) in Computer Science (AI)** _(October 2019 - Ongoing)_
 	- School of Computing Science and Digital Media, <a href="https://www.rgu.ac.uk/">Robert Gordon University</a> (RGU), Aberdeen, UK
-	- Research Goal: Natural Language Generation from Structured Representations
 	- Principal Supervisor: Dr. Stewart Massie, Senior Research Fellow, RGU, Aberdeen, UK
 
-* **Bachelor's of Technology (BTech) in Computer Science and Engineering (CSE)** _(August 2015 - June 2019)_
+* **Bachelor's of Technology (BTech) in Computer Science and Engineering** _(August 2015 - June 2019)_
 	- Department of Computer Science and Engineering, <a href="https://www.iiitnr.ac.in/">Dr. SPM-International Institute of Information Technology, Naya Raipur</a> (IIIT-NR), Chhattisgarh, India
 	- Thesis Title: Information Extraction and Requirement Mapping from Regulatory Documents 
 	- Thesis Supervisor: Dr. Stewart Massie, Senior Research Fellow, RGU, Aberdeen, UK
