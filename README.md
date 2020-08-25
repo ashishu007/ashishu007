@@ -14,21 +14,20 @@ The main goal of my PhD is to develop hybrid techniques using CBR and DL for Nat
 
 ## Education
 * **Doctor of Philosophy (PhD) in Computer Science (AI)** _(October 2019 - Ongoing)_
-	- School of Computing Science and Digital Media, <a href="https://www.rgu.ac.uk/">Robert Gordon University</a> (RGU), Aberdeen, UK
-	- Principal Supervisor: Dr. Stewart Massie, Senior Research Fellow, RGU, Aberdeen, UK
+	- School of Computing, <a href="https://www.rgu.ac.uk/">Robert Gordon University</a> (RGU), Aberdeen, UK
+	- Supervisors: Dr. Stewart Massie and Prof. Nirmalie Wiratunga
 
 * **Bachelor's of Technology (BTech) in Computer Science and Engineering** _(August 2015 - June 2019)_
 	- Department of Computer Science and Engineering, <a href="https://www.iiitnr.ac.in/">Dr. SPM-International Institute of Information Technology, Naya Raipur</a> (IIIT-NR), Chhattisgarh, India
 	- Thesis Title: Information Extraction and Requirement Mapping from Regulatory Documents 
 	- Thesis Supervisor: Dr. Stewart Massie, Senior Research Fellow, RGU, Aberdeen, UK
 
-
 ## Open-Source Contributions
 
 * **NLP-Progress**
 	- Added a new task: [Data-to-Text Generation](https://nlpprogress.com/english/data_to_text_generation.html).
 	- [Pull Request](https://github.com/sebastianruder/NLP-progress/pull/467).
-* Read my blogs on NLP
+* **My NLP Blog**
 	- [NLP Blog](https://panditu2015.github.io/blog/)
 
 <!-- ### Before PhD -->
