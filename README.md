@@ -10,7 +10,9 @@ The main goal of my PhD is to develop hybrid techniques using CBR and DL for Nat
 ## Research Interests
 
 - Natural Language Processing
+	- Data-to-Text Generation
 - Machine Learning
+
 
 ## Education
 * **Doctor of Philosophy (PhD) in Computer Science (AI)** _(October 2019 - Ongoing)_
