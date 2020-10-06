@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Ashish, a CS PhD student working in NLP at the <a href="http://www.comp.rgu.ac.uk/">School of Computing Science</a>, <a href="https://www.rgu.ac.uk/">Robert Gordon University</a>, Aberdeen, UK. I am supervised by <a href="https://www3.rgu.ac.uk/dmstaff/massie-stewart">Dr. Stewart Massie</a> and <a href="https://www3.rgu.ac.uk/dmstaff/wiratunga-nirmalie">Prof. Nirmalie Wiratunga</a>. 
+I am Ashish, a CS PhD student working in NLP at the <a href="http://www.comp.rgu.ac.uk/">School of Computing</a>, <a href="https://www.rgu.ac.uk/">Robert Gordon University</a>, Aberdeen, UK supervised by <a href="https://www3.rgu.ac.uk/dmstaff/massie-stewart">Dr. Stewart Massie</a> and <a href="https://www3.rgu.ac.uk/dmstaff/wiratunga-nirmalie">Prof. Nirmalie Wiratunga</a>. 
 
 <!-- My research interest includes the use of **Case-Based Reasoning (CBR)** and **Deep Learning (DL)** in NLP, especially finding ways to develop effective NLG systems for business processes with minimal labelled data. In my PhD, I am interested to develop novel techniques for **data-to-text generation** tasks, with a focus on the data related problems faced by the business processes. -->
 
