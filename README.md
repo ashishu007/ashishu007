@@ -25,11 +25,16 @@ The main goal of my PhD is to develop hybrid techniques using CBR and DL for Nat
 
 ## Open-Source Contributions
 
+* **3rd WebNLG Workshop, 2020**
+	- I had an opportunity to serve as a PC member for the [3rd WebNLG Workshop, 2020](https://webnlg-challenge.loria.fr/workshop_2020/), co-organised with [INLG 2020](https://www.inlg2020.org/).
+
+* **NLP Blog**
+	- I share my common research findings through [this blog](https://ashishu007.live/blog/).
+	- Might be useful for beginners in DL & NLP.
+
 * **NLP-Progress**
 	- Added a new task: [Data-to-Text Generation](https://nlpprogress.com/english/data_to_text_generation.html).
 	- [Pull Request](https://github.com/sebastianruder/NLP-progress/pull/467).
-* **My NLP Blog**
-	- [NLP Blog](https://ashishu007.github.io/blog/)
 
 <!-- ### Before PhD -->
 <!-- I completed my Bachelor's in Technology (BTech) majoring in Computer Science and Engineering (CSE) in June 2019 from <a href="https://www.iiitnr.ac.in/">Dr. SPM-International Institute of Information Technology, Naya Raipur</a> (IIIT-NR), Chhattisgarh, India.  -->
