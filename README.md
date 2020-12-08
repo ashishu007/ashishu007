@@ -29,7 +29,7 @@ The main goal of my PhD is to develop hybrid techniques using CBR and DL for Nat
 	- I had an opportunity to serve as a PC member for the [3rd WebNLG Workshop, 2020](https://webnlg-challenge.loria.fr/workshop_2020/), co-organised with [INLG 2020](https://www.inlg2020.org/).
 
 * **NLP Blog**
-	- I share my common research findings through [this blog](https://ashishu007.live/blog/).
+	- I share my common research findings through [this blog](https://ashishu007.github.io/blog/).
 	- Might be useful for beginners in DL & NLP.
 
 * **NLP-Progress**
