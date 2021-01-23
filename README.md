@@ -7,7 +7,7 @@ I am Ashish, a CS PhD student working in NLP at the <a href="http://www.comp.rgu
 <!-- ## PhD Goal
 The main goal of my PhD is to develop hybrid techniques using CBR and DL for Natural Language Generation (NLG) with a focus on **data-to-text generation** tasks. I am also interested in the reverse engineering aspect of data-to-text generation task, where using different Information Extraction (IE) techniques we need to develop an initial case-base of a structured representation extracted from unlablled texts/documnets. -->
 
-## Research Interests
+<!-- ## Research Interests
 
 - Natural Language Processing
 	- Data-to-Text Generation
@@ -35,7 +35,8 @@ The main goal of my PhD is to develop hybrid techniques using CBR and DL for Nat
 * **NLP-Progress**
 	- Added a new task: [Data-to-Text Generation](https://nlpprogress.com/english/data_to_text_generation.html).
 	- [Pull Request](https://github.com/sebastianruder/NLP-progress/pull/467).
-
+ -->
+ 
 <!-- ### Before PhD -->
 <!-- I completed my Bachelor's in Technology (BTech) majoring in Computer Science and Engineering (CSE) in June 2019 from <a href="https://www.iiitnr.ac.in/">Dr. SPM-International Institute of Information Technology, Naya Raipur</a> (IIIT-NR), Chhattisgarh, India.  -->
 
