@@ -6,9 +6,9 @@ My PhD aims to develop better Data-to-Text Generation (D2T) systems with improve
 
 I also try to get invovled in some open-source projects. To name a few:
 
-	* **[GEM NLG Benchmark](https://huggingface.co/datasets/GEM/sportsett_basketball)**: Added the SportSett D2T dataset to the GEM NLG benchmark.
-	* **[NLP Progress](http://nlpprogress.com/english/data_to_text_generation.html)**: Added a new task, D2T, to NLP-Progress.
-	* **[NLP-Blog](https://ashishu007.github.io/nlp-blog/)**: Tried to write some blog about NLP in earlier days of PhD. 
+* **[GEM NLG Benchmark](https://huggingface.co/datasets/GEM/sportsett_basketball)**: Added the SportSett D2T dataset to the GEM NLG benchmark.
+* **[NLP Progress](http://nlpprogress.com/english/data_to_text_generation.html)**: Added a new task, D2T, to NLP-Progress.
+* **[NLP-Blog](https://ashishu007.github.io/nlp-blog/)**: Tried to write some blog about NLP in earlier days of PhD. 
 
 <!-- My research interest includes the use of **Case-Based Reasoning (CBR)** and **Deep Learning (DL)** in NLP, especially finding ways to develop effective NLG systems for business processes with minimal labelled data. In my PhD, I am interested to develop novel techniques for **data-to-text generation** tasks, with a focus on the data related problems faced by the business processes. -->
 
