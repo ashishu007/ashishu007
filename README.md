@@ -5,6 +5,7 @@ I am Ashish, a CS PhD student working in NLP at the <a href="http://www.comp.rgu
 My PhD aims to develop better Data-to-Text Generation (D2T) systems with improved accuracy and coverage. I am looking using domain knowledge to bridge the information gap between input and ouput in data used for training neural systems. 
 
 I also try to get invovled in some open-source projects. To name a few:
+
 	* **[GEM NLG Benchmark](https://huggingface.co/datasets/GEM/sportsett_basketball)**: Added the SportSett D2T dataset to the GEM NLG benchmark.
 	* **[NLP Progress](http://nlpprogress.com/english/data_to_text_generation.html)**: Added a new task, D2T, to NLP-Progress.
 	* **[NLP-Blog](https://ashishu007.github.io/nlp-blog/)**: Tried to write some blog about NLP in earlier days of PhD. 
