@@ -2,8 +2,9 @@
 
 I am Ashish, a CS PhD student working in NLP at the <a href="http://www.comp.rgu.ac.uk/">School of Computing</a>, <a href="https://www.rgu.ac.uk/">Robert Gordon University</a>, Aberdeen, UK supervised by <a href="https://www3.rgu.ac.uk/dmstaff/massie-stewart">Dr. Stewart Massie</a> and <a href="https://www3.rgu.ac.uk/dmstaff/wiratunga-nirmalie">Prof. Nirmalie Wiratunga</a>. 
 
-My PhD aims to develop better Data-to-Text Generation (D2T) systems with improved accuracy and coverage. I am looking using domain knowledge to bridge the information gap between input and ouput in data used for training neural systems. 
 <!--
+My PhD aims to develop better Data-to-Text Generation (D2T) systems with improved accuracy and coverage. I am looking using domain knowledge to bridge the information gap between input and ouput in data used for training neural systems. 
+
 I also try to get invovled in some open-source projects. To name a few:
 
 * **[GEM NLG Benchmark](https://huggingface.co/datasets/GEM/sportsett_basketball)**: Added the SportSett D2T dataset to the GEM NLG benchmark.
